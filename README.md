@@ -74,7 +74,7 @@ http://localhost:6333
 
 ## ***5. Run the Application***
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ---
